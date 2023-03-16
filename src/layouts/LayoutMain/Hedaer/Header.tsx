@@ -9,7 +9,7 @@ export const Header = () => {
         <header className={classes.header}>
             {/*<HeaderTop/>*/}
             <div className={classes.headerContent}>
-                <HeaderCenter/>
+                {/*<HeaderCenter/>*/}
             </div>
             <HeaderCatalog/>
         </header>
